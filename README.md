@@ -6,4 +6,6 @@ Excel Sheet (.xls, .xlsx, .csv) to Html Table (Web View) and as Array view.
 
 Demo: http://srasel.com/exceltoweb/
 
+Library Used http://phpexcel.codeplex.com/
+
 Author: S. M. Monjurul Islam http://srasel.com
