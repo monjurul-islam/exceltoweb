@@ -5,8 +5,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-<meta name="description" content="">
-<meta name="author" content="">
+<meta name="description" content="Import Excel Sheet (.xls, .xlsx, .csv) and convert to HTML Table or in Array using PHP and Bootstrap">
+<meta name="author" content="S. M. Monjurul Islam (http://srasel.com)">
 <link rel="icon" href="">
 <title>Excel / Spreadsheet Processor</title>
 
