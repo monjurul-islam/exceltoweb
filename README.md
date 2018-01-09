@@ -4,8 +4,8 @@ Import Excel Sheet (.xls, .xlsx, .csv) and convert to HTML Table or in Array usi
 
 Excel Sheet (.xls, .xlsx, .csv) to Html Table (Web View) and as Array view.
 
-Demo: http://srasel.com/exceltoweb/
+Live Demo: http://sbtechvalley.com/exceltoweb/
 
 Library Used http://phpexcel.codeplex.com/
 
-Author: S. M. Monjurul Islam http://srasel.com
+Author: S. M. Monjurul Islam https://www.facebook.com/islam.rasel
